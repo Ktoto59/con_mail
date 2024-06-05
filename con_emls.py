@@ -8,7 +8,7 @@ from datetime import datetime
 
 # Загружаем данные для подключения к почтовому ящику и БД
 IMAP_HOST = "imap.mail.ru"
-IMAP_USER = "hot@*****.ru"
+IMAP_USER = "***@*****.ru"
 IMAP_PASS = "********"
 
 DB_HOST = "******.************.ru"
